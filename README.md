@@ -8,6 +8,12 @@ Natural language processing (NLP) is a subfield of linguistics, computer science
 ## The Dataset
 In this project I used dataset for classification of News descriptions. There are 4 categories: Sports, Business, World, SciTech. This is a manually curated dataset of news description and their classes from AGWeb.com.. I got the dataset from https://medium.com/@dataturks/rare-text-classification-open-datasets-9d340c8c508e .
 
+### Language used
+  - Python
+
+### Platform used
+  - Jupyter Notebook
+
 ## What I covered?
   - Feature Extraction
   - Regular Expressions
